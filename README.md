@@ -79,6 +79,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 
 
@@ -209,6 +210,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
+```
 ## Output  :
 ![WhatsApp Image 2023-03-21 at 14 08 53](https://user-images.githubusercontent.com/120359170/226555103-6bcb0e50-4aaf-403c-82cf-fc61cc2434e0.jpg)
 ## Result :
